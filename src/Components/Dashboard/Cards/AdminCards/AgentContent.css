@@ -1,0 +1,25 @@
+ .site-card-border-less-wrapper {
+    padding: 30px;
+    background: #ececec;
+  }
+
+/*
+  .site-card-border-less-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .site-card-border-less-wrapper > * {
+    flex-basis: calc(25% - 1em);
+    margin-bottom: 1em;
+  }
+*/
+
+
+/* .site-card-border-less-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 1em;
+  } */
+  
